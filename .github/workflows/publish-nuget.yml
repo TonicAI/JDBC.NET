@@ -1,8 +1,8 @@
 name: Create and publish a nuget package
 
 on:
-  push:
-    branches: ['release']
+  release:
+    types: [published]
 
 env:
   GITHUB_USER: ${{ github.actor }}
