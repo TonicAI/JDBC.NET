@@ -19,6 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Working dir
+        run: pwd
+      
       - name: Package nuget
         run: dotnet pack --configuration Release
       
