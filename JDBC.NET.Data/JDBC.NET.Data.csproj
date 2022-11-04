@@ -7,8 +7,8 @@
     <Authors>CHEQUER</Authors>
     <Company>CHEQUER</Company>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <RepositoryUrl>https://github.com/chequer-io/JDBC.NET</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/chequer-io/JDBC.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TonicAI/JDBC.NET</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/TonicAI/JDBC.NET</PackageProjectUrl>
     <PackageIcon>Logo.jpg</PackageIcon>
     <Version>3.4.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
