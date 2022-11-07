@@ -10,7 +10,7 @@
     <RepositoryUrl>https://github.com/TonicAI/JDBC.NET</RepositoryUrl>
     <PackageProjectUrl>https://github.com/TonicAI/JDBC.NET</PackageProjectUrl>
     <PackageIcon>Logo.jpg</PackageIcon>
-    <Version>3.4.0</Version>
+    <Version>3.4.3</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 

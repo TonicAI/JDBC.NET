@@ -34,4 +34,4 @@ jobs:
       
       - name: Publish nuget
         working-directory: JDBC.NET.Data
-        run: dotnet nuget push "bin/Release/JDBC.NET.Data.*.nupkg" --source "github"
+        run: dotnet nuget push "bin/Release/JDBC.NET.Data.*.nupkg" --api-key $GITHUB_TOKEN --source "github"
